@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Steve K Harringtons Portfolio and Blog
 email: sharrington9614@gmail.com
-description: Welcome to my personal corner of the interwebs Im an Engineering Student, Freelance Theater Technician, Former Eagle Scout who dabels in webdesign, graphic design, and helps compete in the FIRST robotics competition
+description: Welcome to my personal corner of the interwebs Im an Engineering Student, Freelance Theater Technician, Former Eagle Scout who dabels in web & graphic design, and helps high schoolers compete in the FIRST robotics competition
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sharrington9614
@@ -23,7 +23,6 @@ github_username:  sharrington9614
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 

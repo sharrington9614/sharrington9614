@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Welcome"
+date: "2019-02-11 20:30:03 -0500"
+categories: Welcome about
+---
+Congratulations You have found my corner of the interwebs. Im a infrequent poster this whole blog thing is a pretty new concept to me but im trying to make a go of it.
+
+Im what you many would call a "jack of all trades master of none", im by no means a master of anything but the list of things that i like and are reasonably good at is very wide ranging.

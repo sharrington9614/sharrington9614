@@ -1,0 +1,20 @@
+# This File Contains all the Data for Theater Credits Displayed on the Theater credits
+
+#- show: _
+#   tagline: _
+#   role: _
+#   producer: _
+#   director: _
+#   location: _
+#
+
+-
+  show: The Werewolves
+  tagline: A new play by Alex Moon
+  role: Graphic Designer, Weaponsmith, Run Crew
+  producer: Manahatten Rep
+  director: Corinne M. Mason
+  location: New York, New York
+  time: Summer 2017
+-
+  Show:
